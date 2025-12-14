@@ -26,4 +26,11 @@ It allows storing student information, tracking fees paid, and calculating the r
 - Interfaces  
 
 ## Author
-Souradeepta Das
+## Contributors
+- 2520030347 – Souradeepta Das – Core logic & implementation  
+- 2520030595 – S. Sri Sai Pradhyumn – Requirements analysis & documentation  
+- 2520030417 – P. Pavan Sai – Testing and debugging  
+- 2520030602 – B. Naga Charan – Class design & OOP structure  
+- 2520090153 – Sai Teja M – User input handling & validation  
+- 2520030611 – Hemanth K – Output formatting & result verification  
+- 2520040081 – G. T. Sai Charan Teja – Project review & final integration 
